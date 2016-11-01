@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Extension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Sort Lines.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>747DB0A61DC8168100816DF0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>747DB0BC1DC816A400816DF0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
